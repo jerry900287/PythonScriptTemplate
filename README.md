@@ -1,3 +1,3 @@
 # PythonScriptTemplate
 
-This is a python script temlate with log.
+This is a python script template with log.
